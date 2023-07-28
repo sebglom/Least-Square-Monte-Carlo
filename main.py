@@ -1,5 +1,5 @@
 # Import Black Scholes Model
-from LeastSquaresMonteCarlo import LSMC
+from Notebooks.LeastSquaresMonteCarlo import LSMC
 
 
 # Estimate Delta by drifting the random path
